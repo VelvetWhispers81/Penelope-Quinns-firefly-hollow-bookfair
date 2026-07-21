@@ -1,0 +1,10 @@
+export default function Page() {
+  return (
+    <section>
+      <h1 className="hero-title">Penelope Quinn’s Firefly Hollow</h1>
+      <p className="hero-sub">
+        A magical night-garden book fair filled with stories, printables, audio tales, and learning treasures.
+      </p>
+    </section>
+  )
+}
