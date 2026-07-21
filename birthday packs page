@@ -1,0 +1,11 @@
+import ProductCard from "../../components/ProductCard"
+import data from "../../data/birthday.json"
+
+export default function Page() {
+  return (
+    <section>
+      <h1>Birthday Packs</h1>
+      {data.map(item => <ProductCard key={item.id} item={item} />)}
+    </section>
+  )
+}
