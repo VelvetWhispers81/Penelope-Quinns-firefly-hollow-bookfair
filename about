@@ -1,0 +1,11 @@
+export default function Page() {
+  return (
+    <section>
+      <h1>About Firefly Hollow</h1>
+      <p>
+        Penelope Quinn’s Firefly Hollow is a magical night-garden book fair filled with stories,
+        printables, learning kits, audio tales, busy bags, and birthday packs.
+      </p>
+    </section>
+  )
+}
