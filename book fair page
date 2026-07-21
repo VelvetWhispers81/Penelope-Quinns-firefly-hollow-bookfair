@@ -1,0 +1,16 @@
+import CategoryCard from "../../components/CategoryCard"
+
+export default function Page() {
+  return (
+    <section>
+      <h1>Firefly Hollow Book Fair</h1>
+      <CategoryCard title="Stories" link="/stories" />
+      <CategoryCard title="Printables" link="/printables" />
+      <CategoryCard title="Learning Kits" link="/learning-kits" />
+      <CategoryCard title="Audio Tales" link="/audio-tales" />
+      <CategoryCard title="Busy Bags" link="/busy-bags" />
+      <CategoryCard title="Birthday Packs" link="/birthday-packs" />
+      <CategoryCard title="Homework Helper" link="/homework-helper" />
+    </section>
+  )
+}
