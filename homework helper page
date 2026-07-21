@@ -1,0 +1,9 @@
+export default function Page() {
+  return (
+    <section>
+      <h1>Homework Helper</h1>
+      <p>Reading, writing, and early learning support for ages 4–10.</p>
+      <p>Booking available soon.</p>
+    </section>
+  )
+}
