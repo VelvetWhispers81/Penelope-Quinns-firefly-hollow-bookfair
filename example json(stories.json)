@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Penelope Quinn and the First Firefly",
+    "age": "4-8",
+    "price": 8
+  },
+  {
+    "id": 2,
+    "title": "Sunnyboy’s Secret Stone",
+    "age": "5-10",
+    "price": 10
+  }
+]
