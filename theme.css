@@ -1,4 +1,34 @@
-:root {
+.storybook-card {
+  background: var(--moonstone);
+  border: 4px solid var(--glow-amber);
+  border-radius: 18px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  box-shadow: 0 0 20px rgba(255, 216, 107, 0.4);
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+}
+
+.storybook-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 0 30px rgba(255, 216, 107, 0.7);
+}
+
+.storybook-title {
+  font-family: "Playfair Display", serif;
+  font-size: 1.6rem;
+  color: var(--twilight-plum);
+}
+
+.storybook-age {
+  color: var(--deep-forest);
+  font-size: 1rem;
+}
+
+.storybook-price {
+  color: var(--glow-amber);
+  font-weight: bold;
+  font-size: 1.2rem;
+}:root {
   --deep-forest: #0A1F1A;
   --glow-amber: #FFD86B;
   --twilight-plum: #6A3A6F;
