@@ -1,0 +1,11 @@
+import ProductCard from "../../components/ProductCard"
+import data from "../../data/learningKits.json"
+
+export default function Page() {
+  return (
+    <section>
+      <h1>Learning Kits</h1>
+      {data.map(item => <ProductCard key={item.id} item={item} />)}
+    </section>
+  )
+}
