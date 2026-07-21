@@ -1,0 +1,20 @@
+[
+  { "id": 1, "title": "Firefly Coloring Pack", "age": "3-7", "price": 6 },
+  { "id": 2, "title": "Night Garden Scavenger Hunt", "age": "5-10", "price": 5 }
+] 
+[
+  { "id": 1, "title": "Alphabet Glow Kit", "age": "3-6", "price": 12 },
+  { "id": 2, "title": "Numbers in the Night", "age": "4-7", "price": 12 }
+] 
+[
+  { "id": 1, "title": "The Firefly Lantern", "age": "4-10", "price": 4 },
+  { "id": 2, "title": "Sunnyboy’s Night Walk", "age": "4-10", "price": 4 }
+] 
+[
+  { "id": 1, "title": "Restaurant Busy Bag", "age": "3-9", "price": 15 },
+  { "id": 2, "title": "Car Ride Quiet Kit", "age": "4-10", "price": 18 }
+] 
+[
+  { "id": 1, "title": "Firefly Birthday Pack", "age": "4-10", "price": 20 },
+  { "id": 2, "title": "Night Garden Party Kit", "age": "5-11", "price": 25 }
+]
