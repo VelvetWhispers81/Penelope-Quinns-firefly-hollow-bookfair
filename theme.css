@@ -1,0 +1,13 @@
+:root {
+  --deep-forest: #0A1F1A;
+  --glow-amber: #FFD86B;
+  --twilight-plum: #6A3A6F;
+  --moss-mint: #B7E3C0;
+  --moonstone: #F2F2F0;
+}
+
+.night-garden-bg {
+  background: linear-gradient(180deg, var(--deep-forest), var(--twilight-plum));
+  min-height: 100vh;
+  color: var(--moonstone);
+}
