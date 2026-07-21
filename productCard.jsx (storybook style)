@@ -1,0 +1,11 @@
+export default function ProductCard({ item }) {
+  return (
+    <div className="storybook-card">
+      <div className="storybook-frame">
+        <h3 className="storybook-title">{item.title}</h3>
+        <p className="storybook-age">Ages {item.age}</p>
+        <p className="storybook-price">${item.price}</p>
+      </div>
+    </div>
+  )
+}
